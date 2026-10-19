@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-18T09:35:46+00:00",
- "segundos": 1346,
- "productos": 525,
- "comparables": 99,
+ "fecha": "2026-10-19T09:47:03+00:00",
+ "segundos": 1406,
+ "productos": 523,
+ "comparables": 100,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 152,
+   "ofertas": 155,
    "paginas": 427,
    "productos_leidos": 427,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 91
+    "no_es_suplemento_o_sin_tamano": 85
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 152 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 155 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -24,17 +24,17 @@
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 55,
+   "ofertas": 54,
    "paginas": 1,
    "productos_leidos": 71,
    "omitidos": {
     "no_es_suplemento_o_sin_tamano": 134,
-    "sin_stock": 12
+    "sin_stock": 13
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 55 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 54 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,11 +43,11 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 26,
-   "paginas": 119,
-   "productos_leidos": 119,
+   "ofertas": 21,
+   "paginas": 122,
+   "productos_leidos": 122,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 24,
+    "no_es_suplemento_o_sin_tamano": 26,
     "sin_stock": 5
    },
    "errores": [],
@@ -61,12 +61,13 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 182,
-   "paginas": 265,
+   "ofertas": 181,
+   "paginas": 245,
    "productos_leidos": 265,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18,
-    "sin_stock": 37
+    "sin_cambios_304": 20,
+    "no_es_suplemento_o_sin_tamano": 17,
+    "sin_stock": 34
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,12 +80,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 81,
+   "ofertas": 80,
    "paginas": 205,
    "productos_leidos": 205,
    "omitidos": {
     "sin_stock": 19,
-    "no_es_suplemento_o_sin_tamano": 66
+    "no_es_suplemento_o_sin_tamano": 67
    },
    "errores": [],
    "tipo": "sitemap",
@@ -151,7 +152,7 @@
    "paginas": 503,
    "productos_leidos": 503,
    "omitidos": {
-    "sin_stock": 165,
+    "sin_stock": 166,
     "no_es_suplemento_o_sin_tamano": 23
    },
    "errores": [],
@@ -159,8 +160,8 @@
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "Farmacity": {
@@ -169,8 +170,8 @@
    "paginas": 23,
    "productos_leidos": 930,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 571,
-    "sin_stock": 196
+    "no_es_suplemento_o_sin_tamano": 577,
+    "sin_stock": 194
    },
    "errores": [],
    "tipo": "vtex",
@@ -193,29 +194,29 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 154,
+   "ofertas": 150,
    "paginas": 398,
    "productos_leidos": 398,
    "omitidos": {
-    "sin_stock": 76,
-    "no_es_suplemento_o_sin_tamano": 23
+    "sin_stock": 74,
+    "no_es_suplemento_o_sin_tamano": 24
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 71,
+   "ofertas": 72,
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 20
+    "no_es_suplemento_o_sin_tamano": 19
    },
    "errores": [],
    "tipo": "sitemap",
@@ -278,8 +279,8 @@
    "paginas": 17,
    "productos_leidos": 4023,
    "omitidos": {
-    "sin_stock": 7779,
-    "no_es_suplemento_o_sin_tamano": 8253
+    "sin_stock": 7929,
+    "no_es_suplemento_o_sin_tamano": 8219
    },
    "errores": [],
    "tipo": "shopify",
