@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-21T09:44:56+00:00",
- "segundos": 1366,
- "productos": 526,
- "comparables": 99,
+ "fecha": "2026-10-22T09:45:51+00:00",
+ "segundos": 1373,
+ "productos": 524,
+ "comparables": 98,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 148,
+   "ofertas": 155,
    "paginas": 427,
    "productos_leidos": 427,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 87
+    "no_es_suplemento_o_sin_tamano": 85
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 148 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 155 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -24,17 +24,17 @@
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 54,
+   "ofertas": 55,
    "paginas": 1,
    "productos_leidos": 71,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 132,
-    "sin_stock": 15
+    "no_es_suplemento_o_sin_tamano": 133,
+    "sin_stock": 13
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 54 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 55 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 23,
-   "paginas": 106,
-   "productos_leidos": 106,
+   "ofertas": 24,
+   "paginas": 107,
+   "productos_leidos": 107,
    "omitidos": {
-    "sin_stock": 4,
-    "no_es_suplemento_o_sin_tamano": 18
+    "no_es_suplemento_o_sin_tamano": 19,
+    "sin_stock": 6
    },
    "errores": [],
    "tipo": "sitemap",
@@ -62,11 +62,12 @@
   "Suplementate": {
    "estado": "ok",
    "ofertas": 181,
-   "paginas": 265,
+   "paginas": 256,
    "productos_leidos": 265,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18,
-    "sin_stock": 38
+    "no_es_suplemento_o_sin_tamano": 17,
+    "sin_stock": 36,
+    "sin_cambios_304": 9
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,7 +80,7 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 81,
+   "ofertas": 78,
    "paginas": 205,
    "productos_leidos": 205,
    "omitidos": {
@@ -91,8 +92,8 @@
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "DeMusculos": {
@@ -129,12 +130,11 @@
   },
   "Gentech": {
    "estado": "ok",
-   "ofertas": 7,
+   "ofertas": 8,
    "paginas": 114,
    "productos_leidos": 114,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 22,
-    "sin_stock": 3
+    "no_es_suplemento_o_sin_tamano": 24
    },
    "errores": [],
    "tipo": "sitemap",
@@ -151,7 +151,7 @@
    "paginas": 504,
    "productos_leidos": 504,
    "omitidos": {
-    "sin_stock": 169,
+    "sin_stock": 168,
     "no_es_suplemento_o_sin_tamano": 22
    },
    "errores": [],
@@ -169,8 +169,8 @@
    "paginas": 23,
    "productos_leidos": 930,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 582,
-    "sin_stock": 194
+    "no_es_suplemento_o_sin_tamano": 563,
+    "sin_stock": 190
    },
    "errores": [],
    "tipo": "vtex",
@@ -193,29 +193,29 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 153,
-   "paginas": 399,
-   "productos_leidos": 399,
+   "ofertas": 151,
+   "paginas": 400,
+   "productos_leidos": 400,
    "omitidos": {
-    "sin_stock": 76,
-    "no_es_suplemento_o_sin_tamano": 23
+    "sin_stock": 79,
+    "no_es_suplemento_o_sin_tamano": 20
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 71,
+   "ofertas": 72,
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 19
+    "no_es_suplemento_o_sin_tamano": 20
    },
    "errores": [],
    "tipo": "sitemap",
@@ -260,8 +260,8 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 464,
-   "productos_leidos": 464,
+   "paginas": 460,
+   "productos_leidos": 460,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -271,10 +271,10 @@
    "estado": "ok",
    "ofertas": 1,
    "paginas": 17,
-   "productos_leidos": 4019,
+   "productos_leidos": 4010,
    "omitidos": {
-    "sin_stock": 8151,
-    "no_es_suplemento_o_sin_tamano": 7985
+    "sin_stock": 8114,
+    "no_es_suplemento_o_sin_tamano": 7947
    },
    "errores": [],
    "tipo": "shopify",
