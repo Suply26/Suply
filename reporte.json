@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-25T09:37:29+00:00",
- "segundos": 1313,
- "productos": 523,
- "comparables": 102,
+ "fecha": "2026-10-26T09:51:38+00:00",
+ "segundos": 1379,
+ "productos": 520,
+ "comparables": 101,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 156,
+   "ofertas": 154,
    "paginas": 427,
    "productos_leidos": 427,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 78
+    "no_es_suplemento_o_sin_tamano": 87
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 156 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 154 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 30,
+   "ofertas": 27,
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "sin_stock": 2,
-    "no_es_suplemento_o_sin_tamano": 17
+    "no_es_suplemento_o_sin_tamano": 22,
+    "sin_stock": 2
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,12 +61,13 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 182,
-   "paginas": 265,
+   "ofertas": 181,
+   "paginas": 252,
    "productos_leidos": 265,
    "omitidos": {
     "no_es_suplemento_o_sin_tamano": 18,
-    "sin_stock": 37
+    "sin_cambios_304": 13,
+    "sin_stock": 36
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,12 +80,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 82,
+   "ofertas": 81,
    "paginas": 205,
    "productos_leidos": 205,
    "omitidos": {
     "sin_stock": 19,
-    "no_es_suplemento_o_sin_tamano": 65
+    "no_es_suplemento_o_sin_tamano": 67
    },
    "errores": [],
    "tipo": "sitemap",
@@ -146,15 +147,17 @@
    }
   },
   "ADN Nutrition": {
-   "estado": "conservada",
-   "ofertas": 0,
-   "paginas": 0,
-   "productos_leidos": 0,
-   "omitidos": {},
+   "estado": "ok",
+   "ofertas": 92,
+   "paginas": 506,
+   "productos_leidos": 506,
+   "omitidos": {
+    "sin_stock": 170,
+    "no_es_suplemento_o_sin_tamano": 26
+   },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 0 ofertas y antes tenía 93: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -167,8 +170,8 @@
    "paginas": 23,
    "productos_leidos": 933,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 580,
-    "sin_stock": 191
+    "no_es_suplemento_o_sin_tamano": 577,
+    "sin_stock": 193
    },
    "errores": [],
    "tipo": "vtex",
@@ -191,11 +194,11 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 158,
+   "ofertas": 148,
    "paginas": 404,
    "productos_leidos": 404,
    "omitidos": {
-    "sin_stock": 72,
+    "sin_stock": 71,
     "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
@@ -203,17 +206,17 @@
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 69,
+   "ofertas": 71,
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21
+    "no_es_suplemento_o_sin_tamano": 18
    },
    "errores": [],
    "tipo": "sitemap",
@@ -227,10 +230,10 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 28,
+   "paginas": 27,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 26,
+    "sin_cambios_304": 27,
     "sin_stock": 13,
     "no_es_suplemento_o_sin_tamano": 2
    },
@@ -271,8 +274,8 @@
    "paginas": 16,
    "productos_leidos": 3959,
    "omitidos": {
-    "sin_stock": 7958,
-    "no_es_suplemento_o_sin_tamano": 7636
+    "sin_stock": 7982,
+    "no_es_suplemento_o_sin_tamano": 7604
    },
    "errores": [],
    "tipo": "shopify",
