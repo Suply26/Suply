@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-26T09:51:38+00:00",
- "segundos": 1379,
- "productos": 520,
- "comparables": 101,
+ "fecha": "2026-10-27T09:49:09+00:00",
+ "segundos": 1387,
+ "productos": 524,
+ "comparables": 100,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 154,
+   "ofertas": 152,
    "paginas": 427,
    "productos_leidos": 427,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 87
+    "no_es_suplemento_o_sin_tamano": 94
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 154 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 152 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 27,
+   "ofertas": 26,
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 22,
-    "sin_stock": 2
+    "no_es_suplemento_o_sin_tamano": 23,
+    "sin_stock": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,13 +61,12 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 181,
-   "paginas": 252,
+   "ofertas": 182,
+   "paginas": 265,
    "productos_leidos": 265,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18,
-    "sin_cambios_304": 13,
-    "sin_stock": 36
+    "sin_stock": 37,
+    "no_es_suplemento_o_sin_tamano": 18
    },
    "errores": [],
    "tipo": "sitemap",
@@ -111,8 +110,8 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 603,
-   "productos_leidos": 603,
+   "paginas": 602,
+   "productos_leidos": 602,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -130,12 +129,11 @@
   },
   "Gentech": {
    "estado": "ok",
-   "ofertas": 7,
+   "ofertas": 8,
    "paginas": 114,
    "productos_leidos": 114,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 23,
-    "sin_stock": 2
+    "no_es_suplemento_o_sin_tamano": 24
    },
    "errores": [],
    "tipo": "sitemap",
@@ -149,11 +147,12 @@
   "ADN Nutrition": {
    "estado": "ok",
    "ofertas": 92,
-   "paginas": 506,
+   "paginas": 258,
    "productos_leidos": 506,
    "omitidos": {
-    "sin_stock": 170,
-    "no_es_suplemento_o_sin_tamano": 26
+    "sin_stock": 99,
+    "sin_cambios_304": 248,
+    "no_es_suplemento_o_sin_tamano": 9
    },
    "errores": [],
    "tipo": "sitemap",
@@ -166,11 +165,11 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 108,
+   "ofertas": 109,
    "paginas": 23,
-   "productos_leidos": 933,
+   "productos_leidos": 932,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 577,
+    "no_es_suplemento_o_sin_tamano": 564,
     "sin_stock": 193
    },
    "errores": [],
@@ -194,29 +193,31 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 148,
-   "paginas": 404,
+   "ofertas": 151,
+   "paginas": 401,
    "productos_leidos": 404,
    "omitidos": {
-    "sin_stock": 71,
-    "no_es_suplemento_o_sin_tamano": 26
+    "sin_stock": 69,
+    "no_es_suplemento_o_sin_tamano": 24,
+    "sin_cambios_304": 3
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 71,
-   "paginas": 156,
+   "ofertas": 72,
+   "paginas": 55,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18
+    "sin_cambios_304": 101,
+    "no_es_suplemento_o_sin_tamano": 5
    },
    "errores": [],
    "tipo": "sitemap",
@@ -230,12 +231,10 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 27,
+   "paginas": 1,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 27,
-    "sin_stock": 13,
-    "no_es_suplemento_o_sin_tamano": 2
+    "sin_cambios_304": 53
    },
    "errores": [],
    "tipo": "sitemap",
@@ -261,21 +260,24 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 471,
-   "productos_leidos": 471,
+   "paginas": 476,
+   "productos_leidos": 476,
    "omitidos": {},
-   "errores": [],
+   "errores": [
+    "https://www.centraloeste.com.ar/75080143-desodorante-en-barra-dove-sti-proteccion-x50gr.html: HTTP 404 en https://www.centraloeste.com.ar/75080143-desodorante-en-barra-dove-sti-proteccion-x50gr.html",
+    "https://www.centraloeste.com.ar/3401573670282-crema-facial-bioderma-sensibio-sensibio-forte-hidratante-x40ml.html: HTTP 404 en https://www.centraloeste.com.ar/3401573670282-crema-facial-bioderma-sensibio-sensibio-forte-h"
+   ],
    "tipo": "sitemap",
-   "errores_total": 0
+   "errores_total": 2
   },
   "Decathlon": {
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3959,
+   "productos_leidos": 3963,
    "omitidos": {
-    "sin_stock": 7982,
-    "no_es_suplemento_o_sin_tamano": 7604
+    "sin_stock": 8005,
+    "no_es_suplemento_o_sin_tamano": 7595
    },
    "errores": [],
    "tipo": "shopify",
