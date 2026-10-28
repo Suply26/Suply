@@ -1,25 +1,25 @@
 {
- "fecha": "2026-10-27T09:49:09+00:00",
- "segundos": 1387,
- "productos": 524,
- "comparables": 100,
+ "fecha": "2026-10-28T09:57:38+00:00",
+ "segundos": 1488,
+ "productos": 528,
+ "comparables": 98,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 152,
-   "paginas": 427,
-   "productos_leidos": 427,
+   "ofertas": 150,
+   "paginas": 426,
+   "productos_leidos": 426,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 94
+    "no_es_suplemento_o_sin_tamano": 88
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 152 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 150 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "ENA Sport": {
@@ -47,26 +47,26 @@
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 23,
-    "sin_stock": 3
+    "no_es_suplemento_o_sin_tamano": 20,
+    "sin_stock": 4
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 182,
-   "paginas": 265,
-   "productos_leidos": 265,
+   "ofertas": 183,
+   "paginas": 266,
+   "productos_leidos": 266,
    "omitidos": {
-    "sin_stock": 37,
-    "no_es_suplemento_o_sin_tamano": 18
+    "sin_stock": 38,
+    "no_es_suplemento_o_sin_tamano": 17
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,20 +79,20 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 81,
-   "paginas": 205,
-   "productos_leidos": 205,
+   "ofertas": 79,
+   "paginas": 190,
+   "productos_leidos": 190,
    "omitidos": {
-    "sin_stock": 19,
-    "no_es_suplemento_o_sin_tamano": 67
+    "sin_stock": 16,
+    "no_es_suplemento_o_sin_tamano": 61
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "DeMusculos": {
@@ -147,30 +147,29 @@
   "ADN Nutrition": {
    "estado": "ok",
    "ofertas": 92,
-   "paginas": 258,
+   "paginas": 506,
    "productos_leidos": 506,
    "omitidos": {
-    "sin_stock": 99,
-    "sin_cambios_304": 248,
-    "no_es_suplemento_o_sin_tamano": 9
+    "sin_stock": 170,
+    "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 109,
+   "ofertas": 108,
    "paginas": 23,
-   "productos_leidos": 932,
+   "productos_leidos": 934,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 564,
-    "sin_stock": 193
+    "no_es_suplemento_o_sin_tamano": 585,
+    "sin_stock": 192
    },
    "errores": [],
    "tipo": "vtex",
@@ -193,13 +192,12 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 151,
-   "paginas": 401,
-   "productos_leidos": 404,
+   "ofertas": 158,
+   "paginas": 406,
+   "productos_leidos": 406,
    "omitidos": {
-    "sin_stock": 69,
-    "no_es_suplemento_o_sin_tamano": 24,
-    "sin_cambios_304": 3
+    "sin_stock": 74,
+    "no_es_suplemento_o_sin_tamano": 21
    },
    "errores": [],
    "tipo": "sitemap",
@@ -212,12 +210,11 @@
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 72,
-   "paginas": 55,
+   "ofertas": 70,
+   "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "sin_cambios_304": 101,
-    "no_es_suplemento_o_sin_tamano": 5
+    "no_es_suplemento_o_sin_tamano": 20
    },
    "errores": [],
    "tipo": "sitemap",
@@ -231,10 +228,12 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 1,
+   "paginas": 28,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 53
+    "sin_cambios_304": 26,
+    "sin_stock": 13,
+    "no_es_suplemento_o_sin_tamano": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -260,24 +259,21 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 476,
-   "productos_leidos": 476,
+   "paginas": 490,
+   "productos_leidos": 490,
    "omitidos": {},
-   "errores": [
-    "https://www.centraloeste.com.ar/75080143-desodorante-en-barra-dove-sti-proteccion-x50gr.html: HTTP 404 en https://www.centraloeste.com.ar/75080143-desodorante-en-barra-dove-sti-proteccion-x50gr.html",
-    "https://www.centraloeste.com.ar/3401573670282-crema-facial-bioderma-sensibio-sensibio-forte-hidratante-x40ml.html: HTTP 404 en https://www.centraloeste.com.ar/3401573670282-crema-facial-bioderma-sensibio-sensibio-forte-h"
-   ],
+   "errores": [],
    "tipo": "sitemap",
-   "errores_total": 2
+   "errores_total": 0
   },
   "Decathlon": {
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3963,
+   "productos_leidos": 3962,
    "omitidos": {
-    "sin_stock": 8005,
-    "no_es_suplemento_o_sin_tamano": 7595
+    "sin_stock": 8013,
+    "no_es_suplemento_o_sin_tamano": 7582
    },
    "errores": [],
    "tipo": "shopify",
