@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-29T09:58:57+00:00",
- "segundos": 1388,
- "productos": 528,
- "comparables": 100,
+ "fecha": "2026-10-30T09:59:53+00:00",
+ "segundos": 1410,
+ "productos": 529,
+ "comparables": 101,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 155,
-   "paginas": 426,
-   "productos_leidos": 426,
+   "ofertas": 160,
+   "paginas": 425,
+   "productos_leidos": 425,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 88
+    "no_es_suplemento_o_sin_tamano": 85
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 155 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 160 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -47,8 +47,8 @@
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "sin_stock": 4,
-    "no_es_suplemento_o_sin_tamano": 20
+    "no_es_suplemento_o_sin_tamano": 21,
+    "sin_stock": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,12 +61,13 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 183,
-   "paginas": 266,
+   "ofertas": 184,
+   "paginas": 262,
    "productos_leidos": 266,
    "omitidos": {
-    "sin_stock": 38,
-    "no_es_suplemento_o_sin_tamano": 17
+    "sin_stock": 37,
+    "no_es_suplemento_o_sin_tamano": 15,
+    "sin_cambios_304": 4
    },
    "errores": [],
    "tipo": "sitemap",
@@ -83,8 +84,8 @@
    "paginas": 190,
    "productos_leidos": 190,
    "omitidos": {
-    "sin_stock": 16,
-    "no_es_suplemento_o_sin_tamano": 61
+    "sin_stock": 17,
+    "no_es_suplemento_o_sin_tamano": 60
    },
    "errores": [],
    "tipo": "sitemap",
@@ -110,8 +111,8 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 608,
-   "productos_leidos": 608,
+   "paginas": 611,
+   "productos_leidos": 611,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -130,10 +131,10 @@
   "Gentech": {
    "estado": "ok",
    "ofertas": 8,
-   "paginas": 115,
-   "productos_leidos": 115,
+   "paginas": 114,
+   "productos_leidos": 114,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 25
+    "no_es_suplemento_o_sin_tamano": 24
    },
    "errores": [],
    "tipo": "sitemap",
@@ -146,11 +147,11 @@
   },
   "ADN Nutrition": {
    "estado": "ok",
-   "ofertas": 91,
+   "ofertas": 90,
    "paginas": 507,
    "productos_leidos": 507,
    "omitidos": {
-    "sin_stock": 170,
+    "sin_stock": 171,
     "no_es_suplemento_o_sin_tamano": 27
    },
    "errores": [],
@@ -164,12 +165,12 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 108,
+   "ofertas": 107,
    "paginas": 24,
    "productos_leidos": 937,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 585,
-    "sin_stock": 194
+    "no_es_suplemento_o_sin_tamano": 568,
+    "sin_stock": 201
    },
    "errores": [],
    "tipo": "vtex",
@@ -192,12 +193,12 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 157,
-   "paginas": 406,
-   "productos_leidos": 406,
+   "ofertas": 156,
+   "paginas": 404,
+   "productos_leidos": 404,
    "omitidos": {
-    "sin_stock": 69,
-    "no_es_suplemento_o_sin_tamano": 26
+    "sin_stock": 77,
+    "no_es_suplemento_o_sin_tamano": 25
    },
    "errores": [],
    "tipo": "sitemap",
@@ -210,11 +211,11 @@
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 71,
+   "ofertas": 73,
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21
+    "no_es_suplemento_o_sin_tamano": 18
    },
    "errores": [],
    "tipo": "sitemap",
@@ -228,11 +229,11 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 26,
+   "paginas": 28,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 28,
-    "sin_stock": 12,
+    "sin_cambios_304": 26,
+    "sin_stock": 13,
     "no_es_suplemento_o_sin_tamano": 2
    },
    "errores": [],
@@ -262,11 +263,9 @@
    "paginas": 487,
    "productos_leidos": 487,
    "omitidos": {},
-   "errores": [
-    "https://www.centraloeste.com.ar/7792981063022-whey-protein-truemade-suplemento-deportivo-453g-1lb-cookcream.html: HTTP 404 en https://www.centraloeste.com.ar/7792981063022-whey-protein-truemade-suplemento-deportivo-453g-"
-   ],
+   "errores": [],
    "tipo": "sitemap",
-   "errores_total": 1
+   "errores_total": 0
   },
   "Decathlon": {
    "estado": "ok",
@@ -274,8 +273,8 @@
    "paginas": 16,
    "productos_leidos": 3960,
    "omitidos": {
-    "sin_stock": 8035,
-    "no_es_suplemento_o_sin_tamano": 7555
+    "sin_stock": 7644,
+    "no_es_suplemento_o_sin_tamano": 7953
    },
    "errores": [],
    "tipo": "shopify",
