@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-30T09:59:53+00:00",
- "segundos": 1410,
+ "fecha": "2026-10-31T09:50:30+00:00",
+ "segundos": 1420,
  "productos": 529,
- "comparables": 101,
+ "comparables": 100,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 160,
+   "ofertas": 153,
    "paginas": 425,
    "productos_leidos": 425,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 85
+    "no_es_suplemento_o_sin_tamano": 91
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 160 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 153 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -24,17 +24,17 @@
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 54,
+   "ofertas": 53,
    "paginas": 1,
    "productos_leidos": 70,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 132,
+    "no_es_suplemento_o_sin_tamano": 133,
     "sin_stock": 14
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 54 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 53 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 27,
+   "ofertas": 24,
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21,
-    "sin_stock": 3
+    "no_es_suplemento_o_sin_tamano": 22,
+    "sin_stock": 4
    },
    "errores": [],
    "tipo": "sitemap",
@@ -62,12 +62,11 @@
   "Suplementate": {
    "estado": "ok",
    "ofertas": 184,
-   "paginas": 262,
+   "paginas": 266,
    "productos_leidos": 266,
    "omitidos": {
     "sin_stock": 37,
-    "no_es_suplemento_o_sin_tamano": 15,
-    "sin_cambios_304": 4
+    "no_es_suplemento_o_sin_tamano": 17
    },
    "errores": [],
    "tipo": "sitemap",
@@ -80,12 +79,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 77,
-   "paginas": 190,
-   "productos_leidos": 190,
+   "ofertas": 79,
+   "paginas": 189,
+   "productos_leidos": 189,
    "omitidos": {
-    "sin_stock": 17,
-    "no_es_suplemento_o_sin_tamano": 60
+    "sin_stock": 20,
+    "no_es_suplemento_o_sin_tamano": 56
    },
    "errores": [],
    "tipo": "sitemap",
@@ -165,12 +164,12 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 107,
+   "ofertas": 110,
    "paginas": 24,
-   "productos_leidos": 937,
+   "productos_leidos": 938,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 568,
-    "sin_stock": 201
+    "no_es_suplemento_o_sin_tamano": 563,
+    "sin_stock": 197
    },
    "errores": [],
    "tipo": "vtex",
@@ -193,12 +192,12 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 156,
-   "paginas": 404,
-   "productos_leidos": 404,
+   "ofertas": 151,
+   "paginas": 403,
+   "productos_leidos": 403,
    "omitidos": {
-    "sin_stock": 77,
-    "no_es_suplemento_o_sin_tamano": 25
+    "sin_stock": 76,
+    "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
    "tipo": "sitemap",
@@ -211,11 +210,12 @@
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 73,
-   "paginas": 156,
+   "ofertas": 71,
+   "paginas": 130,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18
+    "sin_cambios_304": 26,
+    "no_es_suplemento_o_sin_tamano": 16
    },
    "errores": [],
    "tipo": "sitemap",
@@ -229,12 +229,10 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 28,
+   "paginas": 0,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 26,
-    "sin_stock": 13,
-    "no_es_suplemento_o_sin_tamano": 2
+    "sin_cambios_304": 54
    },
    "errores": [],
    "tipo": "sitemap",
@@ -260,21 +258,24 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 487,
-   "productos_leidos": 487,
+   "paginas": 485,
+   "productos_leidos": 485,
    "omitidos": {},
-   "errores": [],
+   "errores": [
+    "https://www.centraloeste.com.ar/7790033342156-serum-capilar-elvive-collagen-lifter-x100ml.html: HTTP 404 en https://www.centraloeste.com.ar/7790033342156-serum-capilar-elvive-collagen-lifter-x100ml.html",
+    "https://www.centraloeste.com.ar/7790033342125-acondicionador-elvive-collagen-lifter-x400ml.html: HTTP 404 en https://www.centraloeste.com.ar/7790033342125-acondicionador-elvive-collagen-lifter-x400ml.html"
+   ],
    "tipo": "sitemap",
-   "errores_total": 0
+   "errores_total": 2
   },
   "Decathlon": {
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3960,
+   "productos_leidos": 3966,
    "omitidos": {
-    "sin_stock": 7644,
-    "no_es_suplemento_o_sin_tamano": 7953
+    "sin_stock": 7462,
+    "no_es_suplemento_o_sin_tamano": 8138
    },
    "errores": [],
    "tipo": "shopify",
