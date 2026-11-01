@@ -1,21 +1,21 @@
 {
- "fecha": "2026-10-31T09:50:30+00:00",
- "segundos": 1420,
- "productos": 529,
- "comparables": 100,
+ "fecha": "2026-11-01T09:52:15+00:00",
+ "segundos": 1428,
+ "productos": 527,
+ "comparables": 99,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 153,
+   "ofertas": 155,
    "paginas": 425,
    "productos_leidos": 425,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 91
+    "no_es_suplemento_o_sin_tamano": 93
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 153 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 155 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 24,
+   "ofertas": 25,
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 22,
-    "sin_stock": 4
+    "no_es_suplemento_o_sin_tamano": 24,
+    "sin_stock": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,12 +79,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 79,
-   "paginas": 189,
-   "productos_leidos": 189,
+   "ofertas": 77,
+   "paginas": 188,
+   "productos_leidos": 188,
    "omitidos": {
     "sin_stock": 20,
-    "no_es_suplemento_o_sin_tamano": 56
+    "no_es_suplemento_o_sin_tamano": 57
    },
    "errores": [],
    "tipo": "sitemap",
@@ -146,11 +146,11 @@
   },
   "ADN Nutrition": {
    "estado": "ok",
-   "ofertas": 90,
+   "ofertas": 86,
    "paginas": 507,
    "productos_leidos": 507,
    "omitidos": {
-    "sin_stock": 171,
+    "sin_stock": 175,
     "no_es_suplemento_o_sin_tamano": 27
    },
    "errores": [],
@@ -164,12 +164,12 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 110,
+   "ofertas": 109,
    "paginas": 24,
    "productos_leidos": 938,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 563,
-    "sin_stock": 197
+    "no_es_suplemento_o_sin_tamano": 578,
+    "sin_stock": 200
    },
    "errores": [],
    "tipo": "vtex",
@@ -192,11 +192,11 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 151,
+   "ofertas": 149,
    "paginas": 403,
    "productos_leidos": 403,
    "omitidos": {
-    "sin_stock": 76,
+    "sin_stock": 71,
     "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
@@ -211,11 +211,10 @@
   "TR Fitness": {
    "estado": "ok",
    "ofertas": 71,
-   "paginas": 130,
+   "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "sin_cambios_304": 26,
-    "no_es_suplemento_o_sin_tamano": 16
+    "no_es_suplemento_o_sin_tamano": 19
    },
    "errores": [],
    "tipo": "sitemap",
@@ -229,10 +228,12 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 0,
+   "paginas": 31,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 54
+    "sin_cambios_304": 23,
+    "sin_stock": 14,
+    "no_es_suplemento_o_sin_tamano": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -258,24 +259,21 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 485,
-   "productos_leidos": 485,
+   "paginas": 494,
+   "productos_leidos": 494,
    "omitidos": {},
-   "errores": [
-    "https://www.centraloeste.com.ar/7790033342156-serum-capilar-elvive-collagen-lifter-x100ml.html: HTTP 404 en https://www.centraloeste.com.ar/7790033342156-serum-capilar-elvive-collagen-lifter-x100ml.html",
-    "https://www.centraloeste.com.ar/7790033342125-acondicionador-elvive-collagen-lifter-x400ml.html: HTTP 404 en https://www.centraloeste.com.ar/7790033342125-acondicionador-elvive-collagen-lifter-x400ml.html"
-   ],
+   "errores": [],
    "tipo": "sitemap",
-   "errores_total": 2
+   "errores_total": 0
   },
   "Decathlon": {
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3966,
+   "productos_leidos": 3970,
    "omitidos": {
-    "sin_stock": 7462,
-    "no_es_suplemento_o_sin_tamano": 8138
+    "sin_stock": 7039,
+    "no_es_suplemento_o_sin_tamano": 8531
    },
    "errores": [],
    "tipo": "shopify",
