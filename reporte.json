@@ -1,21 +1,21 @@
 {
- "fecha": "2026-11-01T09:52:15+00:00",
- "segundos": 1428,
- "productos": 527,
+ "fecha": "2026-11-02T10:10:36+00:00",
+ "segundos": 1424,
+ "productos": 522,
  "comparables": 99,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 155,
+   "ofertas": 148,
    "paginas": 425,
    "productos_leidos": 425,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 93
+    "no_es_suplemento_o_sin_tamano": 96
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 155 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 148 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -24,17 +24,17 @@
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 53,
+   "ofertas": 54,
    "paginas": 1,
-   "productos_leidos": 70,
+   "productos_leidos": 74,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 133,
+    "no_es_suplemento_o_sin_tamano": 205,
     "sin_stock": 14
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 53 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 54 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -47,7 +47,7 @@
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 24,
+    "no_es_suplemento_o_sin_tamano": 22,
     "sin_stock": 3
    },
    "errores": [],
@@ -62,11 +62,12 @@
   "Suplementate": {
    "estado": "ok",
    "ofertas": 184,
-   "paginas": 266,
+   "paginas": 237,
    "productos_leidos": 266,
    "omitidos": {
-    "sin_stock": 37,
-    "no_es_suplemento_o_sin_tamano": 17
+    "sin_cambios_304": 29,
+    "sin_stock": 31,
+    "no_es_suplemento_o_sin_tamano": 12
    },
    "errores": [],
    "tipo": "sitemap",
@@ -80,10 +81,10 @@
   "Nutrición Muscular": {
    "estado": "ok",
    "ofertas": 77,
-   "paginas": 188,
-   "productos_leidos": 188,
+   "paginas": 191,
+   "productos_leidos": 191,
    "omitidos": {
-    "sin_stock": 20,
+    "sin_stock": 21,
     "no_es_suplemento_o_sin_tamano": 57
    },
    "errores": [],
@@ -91,8 +92,8 @@
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "DeMusculos": {
@@ -146,12 +147,12 @@
   },
   "ADN Nutrition": {
    "estado": "ok",
-   "ofertas": 86,
+   "ofertas": 84,
    "paginas": 507,
    "productos_leidos": 507,
    "omitidos": {
-    "sin_stock": 175,
-    "no_es_suplemento_o_sin_tamano": 27
+    "sin_stock": 174,
+    "no_es_suplemento_o_sin_tamano": 28
    },
    "errores": [],
    "tipo": "sitemap",
@@ -164,12 +165,12 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 109,
+   "ofertas": 107,
    "paginas": 24,
    "productos_leidos": 938,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 578,
-    "sin_stock": 200
+    "no_es_suplemento_o_sin_tamano": 566,
+    "sin_stock": 199
    },
    "errores": [],
    "tipo": "vtex",
@@ -196,7 +197,7 @@
    "paginas": 403,
    "productos_leidos": 403,
    "omitidos": {
-    "sin_stock": 71,
+    "sin_stock": 74,
     "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
@@ -210,11 +211,11 @@
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 71,
+   "ofertas": 70,
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 19
+    "no_es_suplemento_o_sin_tamano": 20
    },
    "errores": [],
    "tipo": "sitemap",
@@ -228,12 +229,12 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 31,
+   "paginas": 30,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 23,
+    "sin_cambios_304": 24,
     "sin_stock": 14,
-    "no_es_suplemento_o_sin_tamano": 3
+    "no_es_suplemento_o_sin_tamano": 2
    },
    "errores": [],
    "tipo": "sitemap",
@@ -259,8 +260,8 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 494,
-   "productos_leidos": 494,
+   "paginas": 495,
+   "productos_leidos": 495,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -270,10 +271,10 @@
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3970,
+   "productos_leidos": 3967,
    "omitidos": {
-    "sin_stock": 7039,
-    "no_es_suplemento_o_sin_tamano": 8531
+    "sin_stock": 7037,
+    "no_es_suplemento_o_sin_tamano": 8522
    },
    "errores": [],
    "tipo": "shopify",
