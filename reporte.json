@@ -1,25 +1,25 @@
 {
- "fecha": "2026-11-06T10:12:22+00:00",
- "segundos": 1410,
+ "fecha": "2026-11-07T09:54:55+00:00",
+ "segundos": 1356,
  "productos": 525,
- "comparables": 95,
+ "comparables": 97,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 145,
-   "paginas": 425,
-   "productos_leidos": 425,
+   "ofertas": 137,
+   "paginas": 401,
+   "productos_leidos": 401,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 44
+    "no_es_suplemento_o_sin_tamano": 45
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 145 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 137 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 0,
+    "dudosos": 2
    }
   },
   "ENA Sport": {
@@ -28,8 +28,8 @@
    "paginas": 1,
    "productos_leidos": 72,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 201,
-    "sin_stock": 15
+    "no_es_suplemento_o_sin_tamano": 199,
+    "sin_stock": 17
    },
    "errores": [],
    "tipo": "shopify",
@@ -61,13 +61,12 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 183,
-   "paginas": 253,
+   "ofertas": 181,
+   "paginas": 266,
    "productos_leidos": 266,
    "omitidos": {
-    "sin_cambios_304": 13,
-    "no_es_suplemento_o_sin_tamano": 16,
-    "sin_stock": 36
+    "no_es_suplemento_o_sin_tamano": 17,
+    "sin_stock": 40
    },
    "errores": [],
    "tipo": "sitemap",
@@ -80,20 +79,20 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 77,
+   "ofertas": 75,
    "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
     "sin_stock": 21,
-    "no_es_suplemento_o_sin_tamano": 57
+    "no_es_suplemento_o_sin_tamano": 59
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "DeMusculos": {
@@ -111,8 +110,8 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 658,
-   "productos_leidos": 658,
+   "paginas": 662,
+   "productos_leidos": 662,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -146,17 +145,15 @@
    }
   },
   "ADN Nutrition": {
-   "estado": "ok",
-   "ofertas": 88,
-   "paginas": 507,
-   "productos_leidos": 507,
-   "omitidos": {
-    "sin_stock": 170,
-    "no_es_suplemento_o_sin_tamano": 29
-   },
+   "estado": "conservada",
+   "ofertas": 0,
+   "paginas": 0,
+   "productos_leidos": 0,
+   "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
+   "nota": "leyó 0 ofertas y antes tenía 88: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -165,11 +162,11 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 109,
+   "ofertas": 110,
    "paginas": 24,
    "productos_leidos": 942,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 564,
+    "no_es_suplemento_o_sin_tamano": 575,
     "sin_stock": 205
    },
    "errores": [],
@@ -193,12 +190,12 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 149,
+   "ofertas": 150,
    "paginas": 403,
    "productos_leidos": 403,
    "omitidos": {
-    "sin_stock": 71,
-    "no_es_suplemento_o_sin_tamano": 26
+    "sin_stock": 72,
+    "no_es_suplemento_o_sin_tamano": 25
    },
    "errores": [],
    "tipo": "sitemap",
@@ -229,12 +226,11 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 29,
+   "paginas": 1,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 25,
-    "sin_stock": 13,
-    "no_es_suplemento_o_sin_tamano": 2
+    "sin_cambios_304": 53,
+    "sin_stock": 1
    },
    "errores": [],
    "tipo": "sitemap",
@@ -264,20 +260,19 @@
    "productos_leidos": 500,
    "omitidos": {},
    "errores": [
-    "https://www.centraloeste.com.ar/7790580148843-simple-colageno-hidrolizado-limonada-env-x-273-g.html: HTTP 404 en https://www.centraloeste.com.ar/7790580148843-simple-colageno-hidrolizado-limonada-env-x-273-g.html",
-    "https://www.centraloeste.com.ar/7790580119614-simple-suplemento-vitaminico-x-60cmp-calcio-mas-vitamina-d.html: HTTP 404 en https://www.centraloeste.com.ar/7790580119614-simple-suplemento-vitaminico-x-60cmp-calcio-mas-vit"
+    "https://www.centraloeste.com.ar/7790033342101-shampoo-elvive-collagen-lifter-x200ml.html: HTTP 404 en https://www.centraloeste.com.ar/7790033342101-shampoo-elvive-collagen-lifter-x200ml.html"
    ],
    "tipo": "sitemap",
-   "errores_total": 2
+   "errores_total": 1
   },
   "Decathlon": {
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3975,
+   "productos_leidos": 3966,
    "omitidos": {
-    "sin_stock": 6960,
-    "no_es_suplemento_o_sin_tamano": 8612
+    "sin_stock": 6853,
+    "no_es_suplemento_o_sin_tamano": 8700
    },
    "errores": [],
    "tipo": "shopify",
