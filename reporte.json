@@ -1,21 +1,21 @@
 {
- "fecha": "2026-11-08T09:55:48+00:00",
- "segundos": 1422,
- "productos": 527,
- "comparables": 92,
+ "fecha": "2026-11-09T19:43:52+00:00",
+ "segundos": 1440,
+ "productos": 523,
+ "comparables": 95,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 135,
+   "ofertas": 147,
    "paginas": 420,
    "productos_leidos": 420,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 48
+    "no_es_suplemento_o_sin_tamano": 44
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 135 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 147 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,13 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 27,
-   "paginas": 95,
+   "ofertas": 26,
+   "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "sin_stock": 3,
-    "sin_cambios_304": 13,
-    "no_es_suplemento_o_sin_tamano": 19
+    "no_es_suplemento_o_sin_tamano": 19,
+    "sin_stock": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -63,12 +62,12 @@
   "Suplementate": {
    "estado": "ok",
    "ofertas": 181,
-   "paginas": 257,
+   "paginas": 261,
    "productos_leidos": 266,
    "omitidos": {
-    "sin_cambios_304": 9,
-    "no_es_suplemento_o_sin_tamano": 16,
-    "sin_stock": 40
+    "no_es_suplemento_o_sin_tamano": 17,
+    "sin_stock": 39,
+    "sin_cambios_304": 5
    },
    "errores": [],
    "tipo": "sitemap",
@@ -81,21 +80,20 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 76,
-   "paginas": 184,
+   "ofertas": 75,
+   "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
     "sin_stock": 21,
-    "no_es_suplemento_o_sin_tamano": 55,
-    "sin_cambios_304": 7
+    "no_es_suplemento_o_sin_tamano": 58
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "DeMusculos": {
@@ -113,14 +111,21 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 659,
-   "productos_leidos": 659,
+   "paginas": 651,
+   "productos_leidos": 651,
    "omitidos": {},
    "errores": [
-    "https://www.morashop.ar/productos/outlet-optimum-nutrition-creatina-micronizada-suplemento-en-polvo-pote-de-300g-1bujd/: HTTP 404 en https://www.morashop.ar/productos/outlet-optimum-nutrition-creatina-micronizada-supleme"
+    "https://www.morashop.ar/productos/outlet-proteina-on-gold-standard-100-whey-x-1-5-lb-vainilla-w7m0o/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-on-gold-standard-100-whey-x-1-5-lb-vainilla-w7m0o/",
+    "https://www.morashop.ar/productos/outlet-l-citrulline-300-gr-star-nutrition-citrulina-malato-pre-entreno-oxido-nitrico-xltct/: HTTP 404 en https://www.morashop.ar/productos/outlet-l-citrulline-300-gr-star-nutrition-citru",
+    "https://www.morashop.ar/productos/outlet-animal-whey-universal-2-libras-proteina-isolada-concentrada-vainilla-1rsll/: HTTP 404 en https://www.morashop.ar/productos/outlet-animal-whey-universal-2-libras-proteina-isolada-c",
+    "https://www.morashop.ar/productos/outlet-multivitaminico-all-in-one-x60-caps-star-nutrition-sabor-sin-sabor-1k51k/: HTTP 404 en https://www.morashop.ar/productos/outlet-multivitaminico-all-in-one-x60-caps-star-nutrition-",
+    "https://www.morashop.ar/productos/outlet-zma-60-capsulas-1cljz/: HTTP 404 en https://www.morashop.ar/productos/outlet-zma-60-capsulas-1cljz/",
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-creatina-100-pura-en-pote-de-1kg-1x5bq/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-creatina-100-pu",
+    "https://www.morashop.ar/productos/outlet-suplemento-nutrilab-whey-protein-en-pote-de-1kg-dulce-de-leche-143km/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-nutrilab-whey-protein-en-pote-de-1kg-dulce-d",
+    "https://www.morashop.ar/productos/outlet-omega-3-fish-oil-aceite-pescado-60-caps-star-nutrition-sin-sabor-pt5c9/: HTTP 404 en https://www.morashop.ar/productos/outlet-omega-3-fish-oil-aceite-pescado-60-caps-star-nutritio"
    ],
    "tipo": "sitemap",
-   "errores_total": 1
+   "errores_total": 8
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -151,11 +156,11 @@
   },
   "ADN Nutrition": {
    "estado": "ok",
-   "ofertas": 83,
+   "ofertas": 82,
    "paginas": 500,
    "productos_leidos": 500,
    "omitidos": {
-    "sin_stock": 165,
+    "sin_stock": 166,
     "no_es_suplemento_o_sin_tamano": 29
    },
    "errores": [],
@@ -169,12 +174,12 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 110,
+   "ofertas": 109,
    "paginas": 24,
    "productos_leidos": 942,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 576,
-    "sin_stock": 206
+    "no_es_suplemento_o_sin_tamano": 568,
+    "sin_stock": 207
    },
    "errores": [],
    "tipo": "vtex",
@@ -197,11 +202,11 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 153,
+   "ofertas": 149,
    "paginas": 403,
    "productos_leidos": 403,
    "omitidos": {
-    "sin_stock": 70,
+    "sin_stock": 78,
     "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
@@ -219,7 +224,7 @@
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21
+    "no_es_suplemento_o_sin_tamano": 19
    },
    "errores": [],
    "tipo": "sitemap",
@@ -233,12 +238,12 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 30,
+   "paginas": 29,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 24,
+    "sin_cambios_304": 25,
     "sin_stock": 13,
-    "no_es_suplemento_o_sin_tamano": 2
+    "no_es_suplemento_o_sin_tamano": 3
    },
    "errores": [],
    "tipo": "sitemap",
@@ -275,10 +280,10 @@
    "estado": "ok",
    "ofertas": 1,
    "paginas": 16,
-   "productos_leidos": 3967,
+   "productos_leidos": 3966,
    "omitidos": {
-    "sin_stock": 6656,
-    "no_es_suplemento_o_sin_tamano": 8893
+    "sin_stock": 6757,
+    "no_es_suplemento_o_sin_tamano": 8794
    },
    "errores": [],
    "tipo": "shopify",
