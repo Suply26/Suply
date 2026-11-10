@@ -1,25 +1,43 @@
 {
- "fecha": "2026-11-09T19:43:52+00:00",
- "segundos": 1440,
- "productos": 523,
- "comparables": 95,
+ "fecha": "2026-11-10T17:05:19+00:00",
+ "segundos": 1496,
+ "productos": 525,
+ "comparables": 94,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 147,
-   "paginas": 420,
-   "productos_leidos": 420,
+   "ofertas": 141,
+   "paginas": 403,
+   "productos_leidos": 403,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 44
+    "no_es_suplemento_o_sin_tamano": 43
    },
-   "errores": [],
+   "errores": [
+    "https://www.disfit.com.ar/productos/hydro-bcaa-pro-xtrenght-360-g1/: HTTP 404 en https://www.disfit.com.ar/productos/hydro-bcaa-pro-xtrenght-360-g1/",
+    "https://www.disfit.com.ar/productos/creatine-cell-s3-300g-frutos-rojos-hoch-sport/: HTTP 404 en https://www.disfit.com.ar/productos/creatine-cell-s3-300g-frutos-rojos-hoch-sport/",
+    "https://www.disfit.com.ar/productos/creatina-micronizada-hoch-sport-300-g1/: HTTP 404 en https://www.disfit.com.ar/productos/creatina-micronizada-hoch-sport-300-g1/",
+    "https://www.disfit.com.ar/productos/caja-beauty-bar-sabor-chocolate-45-g-x10-unidades/: HTTP 404 en https://www.disfit.com.ar/productos/caja-beauty-bar-sabor-chocolate-45-g-x10-unidades/",
+    "https://www.disfit.com.ar/productos/snack-keto-crackers-33gr-gentech/: HTTP 404 en https://www.disfit.com.ar/productos/snack-keto-crackers-33gr-gentech/",
+    "https://www.disfit.com.ar/productos/iron-gel-green-aple-bcaa-gentech-unidad/: HTTP 404 en https://www.disfit.com.ar/productos/iron-gel-green-aple-bcaa-gentech-unidad/",
+    "https://www.disfit.com.ar/productos/l-carnitina-liquida-frutos-del-bosque-gentech-500-ml/: HTTP 404 en https://www.disfit.com.ar/productos/l-carnitina-liquida-frutos-del-bosque-gentech-500-ml/",
+    "https://www.disfit.com.ar/productos/pre-workout-sabor-frutos-del-bosque-400g-gentech/: HTTP 404 en https://www.disfit.com.ar/productos/pre-workout-sabor-frutos-del-bosque-400g-gentech/",
+    "https://www.disfit.com.ar/productos/barra-growsbar-low-carb-46-g/: HTTP 404 en https://www.disfit.com.ar/productos/barra-growsbar-low-carb-46-g/",
+    "https://www.disfit.com.ar/productos/barra-growsbar-46-g/: HTTP 404 en https://www.disfit.com.ar/productos/barra-growsbar-46-g/",
+    "https://www.disfit.com.ar/productos/multivitaminico-complex-60-caps-hoch-sport/: HTTP 404 en https://www.disfit.com.ar/productos/multivitaminico-complex-60-caps-hoch-sport/",
+    "https://www.disfit.com.ar/productos/citrato-de-magnesio-400-60-caps-hoch-sport/: HTTP 404 en https://www.disfit.com.ar/productos/citrato-de-magnesio-400-60-caps-hoch-sport/",
+    "https://www.disfit.com.ar/productos/vitamina-b-complex-90-comp-hoch-sport/: HTTP 404 en https://www.disfit.com.ar/productos/vitamina-b-complex-90-comp-hoch-sport/",
+    "https://www.disfit.com.ar/productos/barra-proteica-deluxe-46-g/: HTTP 404 en https://www.disfit.com.ar/productos/barra-proteica-deluxe-46-g/",
+    "https://www.disfit.com.ar/productos/caja-barra-proteica-46-g-deluxe-x-16-u/: HTTP 404 en https://www.disfit.com.ar/productos/caja-barra-proteica-46-g-deluxe-x-16-u/",
+    "https://www.disfit.com.ar/productos/nitro-tech-100-whey-gold-2-lbs-muscletech-vto-08-26-1k17r/: HTTP 404 en https://www.disfit.com.ar/productos/nitro-tech-100-whey-gold-2-lbs-muscletech-vto-08-26-1k17r/",
+    "https://www.disfit.com.ar/productos/doypack-whey-collagen-750g-ena-vto-11-26-2hexk/: HTTP 404 en https://www.disfit.com.ar/productos/doypack-whey-collagen-750g-ena-vto-11-26-2hexk/"
+   ],
    "tipo": "sitemap",
-   "errores_total": 0,
-   "nota": "leyó 147 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "errores_total": 17,
+   "nota": "leyó 141 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "ENA Sport": {
@@ -43,11 +61,11 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 26,
+   "ofertas": 25,
    "paginas": 108,
    "productos_leidos": 108,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 19,
+    "no_es_suplemento_o_sin_tamano": 20,
     "sin_stock": 3
    },
    "errores": [],
@@ -62,12 +80,12 @@
   "Suplementate": {
    "estado": "ok",
    "ofertas": 181,
-   "paginas": 261,
+   "paginas": 253,
    "productos_leidos": 266,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 17,
-    "sin_stock": 39,
-    "sin_cambios_304": 5
+    "no_es_suplemento_o_sin_tamano": 15,
+    "sin_stock": 37,
+    "sin_cambios_304": 13
    },
    "errores": [],
    "tipo": "sitemap",
@@ -80,12 +98,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 75,
+   "ofertas": 74,
    "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
     "sin_stock": 21,
-    "no_es_suplemento_o_sin_tamano": 58
+    "no_es_suplemento_o_sin_tamano": 59
    },
    "errores": [],
    "tipo": "sitemap",
@@ -111,21 +129,26 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 651,
-   "productos_leidos": 651,
+   "paginas": 659,
+   "productos_leidos": 659,
    "omitidos": {},
    "errores": [
-    "https://www.morashop.ar/productos/outlet-proteina-on-gold-standard-100-whey-x-1-5-lb-vainilla-w7m0o/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-on-gold-standard-100-whey-x-1-5-lb-vainilla-w7m0o/",
-    "https://www.morashop.ar/productos/outlet-l-citrulline-300-gr-star-nutrition-citrulina-malato-pre-entreno-oxido-nitrico-xltct/: HTTP 404 en https://www.morashop.ar/productos/outlet-l-citrulline-300-gr-star-nutrition-citru",
-    "https://www.morashop.ar/productos/outlet-animal-whey-universal-2-libras-proteina-isolada-concentrada-vainilla-1rsll/: HTTP 404 en https://www.morashop.ar/productos/outlet-animal-whey-universal-2-libras-proteina-isolada-c",
-    "https://www.morashop.ar/productos/outlet-multivitaminico-all-in-one-x60-caps-star-nutrition-sabor-sin-sabor-1k51k/: HTTP 404 en https://www.morashop.ar/productos/outlet-multivitaminico-all-in-one-x60-caps-star-nutrition-",
-    "https://www.morashop.ar/productos/outlet-zma-60-capsulas-1cljz/: HTTP 404 en https://www.morashop.ar/productos/outlet-zma-60-capsulas-1cljz/",
-    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-creatina-100-pura-en-pote-de-1kg-1x5bq/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-creatina-100-pu",
-    "https://www.morashop.ar/productos/outlet-suplemento-nutrilab-whey-protein-en-pote-de-1kg-dulce-de-leche-143km/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-nutrilab-whey-protein-en-pote-de-1kg-dulce-d",
-    "https://www.morashop.ar/productos/outlet-omega-3-fish-oil-aceite-pescado-60-caps-star-nutrition-sin-sabor-pt5c9/: HTTP 404 en https://www.morashop.ar/productos/outlet-omega-3-fish-oil-aceite-pescado-60-caps-star-nutritio"
+    "https://www.morashop.ar/productos/outlet-colageno-hydrolizado-x210-gr-suplemento-star-nutrition-limon-1wrrt/: HTTP 404 en https://www.morashop.ar/productos/outlet-colageno-hydrolizado-x210-gr-suplemento-star-nutrition-li",
+    "https://www.morashop.ar/productos/outlet-mervick-whey-protein-80-proteina-bcaa-glutamina-5lb-75-dosis-strawberry-cream-lnfh4/: HTTP 404 en https://www.morashop.ar/productos/outlet-mervick-whey-protein-80-proteina-bcaa-gl",
+    "https://www.morashop.ar/productos/outlet-ena-sport-citrato-de-magnesio-260g-en-polvo-60-servicios-lemonade-limonada-1lqi6/: HTTP 404 en https://www.morashop.ar/productos/outlet-ena-sport-citrato-de-magnesio-260g-en-polvo",
+    "https://www.morashop.ar/productos/outlet-multivitaminico-vitamnas-y-minerales-mervick-x120-cap-neutro-a3gka/: HTTP 404 en https://www.morashop.ar/productos/outlet-multivitaminico-vitamnas-y-minerales-mervick-x120-cap-neu",
+    "https://www.morashop.ar/productos/outlet-creatine-monohydrate-100-pure-500-gramos-animal-146vt/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatine-monohydrate-100-pure-500-gramos-animal-146vt/",
+    "https://www.morashop.ar/productos/outlet-whey-protein-100-gold-nutrition-suplemento-en-polvo-doypack-2lb-chocolate-1jgwk/: HTTP 404 en https://www.morashop.ar/productos/outlet-whey-protein-100-gold-nutrition-suplemento-e",
+    "https://www.morashop.ar/productos/outlet-body-advance-whey-protein-gold-line-vainilla-907-g-vainilla-1r62m/: HTTP 404 en https://www.morashop.ar/productos/outlet-body-advance-whey-protein-gold-line-vainilla-907-g-vainill",
+    "https://www.morashop.ar/productos/outlet-suplemento-nutrilab-whey-protein-en-pote-de-1kg-dulce-de-leche-4h4mi/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-nutrilab-whey-protein-en-pote-de-1kg-dulce-d",
+    "https://www.morashop.ar/productos/outlet-omega-3-fish-oil-aceite-pescado-60-caps-star-nutrition-sin-sabor-q2yi6/: HTTP 404 en https://www.morashop.ar/productos/outlet-omega-3-fish-oil-aceite-pescado-60-caps-star-nutritio",
+    "https://www.morashop.ar/productos/outlet-creatina-bsn-dna-x-309grs-60-servicios-monohidrato-mw0kh/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-bsn-dna-x-309grs-60-servicios-monohidrato-mw0kh/",
+    "https://www.morashop.ar/productos/outlet-whey-protein-907g-body-advance-proteina-de-suero-masa-muscular-chocolate-zgfva/: HTTP 404 en https://www.morashop.ar/productos/outlet-whey-protein-907g-body-advance-proteina-de-su",
+    "https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-doypack-x-2-lb-cookies-cream-1qlqo/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutriti",
+    "https://www.morashop.ar/productos/outlet-proteina-platinum-whey-protein-3kg-star-nutrition-frutilla-1q8kd/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-platinum-whey-protein-3kg-star-nutrition-frutilla-"
    ],
    "tipo": "sitemap",
-   "errores_total": 8
+   "errores_total": 13
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -174,11 +197,11 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 109,
+   "ofertas": 110,
    "paginas": 24,
    "productos_leidos": 942,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 568,
+    "no_es_suplemento_o_sin_tamano": 577,
     "sin_stock": 207
    },
    "errores": [],
@@ -202,11 +225,11 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 149,
+   "ofertas": 142,
    "paginas": 403,
    "productos_leidos": 403,
    "omitidos": {
-    "sin_stock": 78,
+    "sin_stock": 77,
     "no_es_suplemento_o_sin_tamano": 26
    },
    "errores": [],
@@ -220,7 +243,7 @@
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 70,
+   "ofertas": 72,
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
@@ -238,12 +261,11 @@
   "3F Suplementos": {
    "estado": "ok",
    "ofertas": 15,
-   "paginas": 29,
+   "paginas": 2,
    "productos_leidos": 54,
    "omitidos": {
-    "sin_cambios_304": 25,
-    "sin_stock": 13,
-    "no_es_suplemento_o_sin_tamano": 3
+    "sin_cambios_304": 52,
+    "sin_stock": 1
    },
    "errores": [],
    "tipo": "sitemap",
@@ -269,8 +291,8 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 499,
-   "productos_leidos": 499,
+   "paginas": 500,
+   "productos_leidos": 500,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -278,19 +300,19 @@
   },
   "Decathlon": {
    "estado": "ok",
-   "ofertas": 1,
+   "ofertas": 2,
    "paginas": 16,
-   "productos_leidos": 3966,
+   "productos_leidos": 3964,
    "omitidos": {
-    "sin_stock": 6757,
-    "no_es_suplemento_o_sin_tamano": 8794
+    "sin_stock": 6348,
+    "no_es_suplemento_o_sin_tamano": 9218
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
    "enlaces_verificados": {
-    "probados": 1,
-    "correctos": 1,
+    "probados": 2,
+    "correctos": 2,
     "dudosos": 0
    }
   },
