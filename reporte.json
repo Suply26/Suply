@@ -1,8 +1,8 @@
 {
- "fecha": "2026-11-15T16:21:02+00:00",
- "segundos": 1409,
- "productos": 517,
- "comparables": 96,
+ "fecha": "2026-11-16T19:27:21+00:00",
+ "segundos": 1468,
+ "productos": 522,
+ "comparables": 97,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
@@ -10,7 +10,7 @@
    "paginas": 406,
    "productos_leidos": 406,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 73
+    "no_es_suplemento_o_sin_tamano": 81
    },
    "errores": [],
    "tipo": "sitemap",
@@ -24,17 +24,17 @@
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 49,
+   "ofertas": 48,
    "paginas": 1,
-   "productos_leidos": 72,
+   "productos_leidos": 73,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 179,
-    "sin_stock": 40
+    "no_es_suplemento_o_sin_tamano": 171,
+    "sin_stock": 52
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 49 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 48 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,11 +43,11 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 26,
+   "ofertas": 29,
    "paginas": 112,
    "productos_leidos": 112,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 22,
+    "no_es_suplemento_o_sin_tamano": 21,
     "sin_stock": 2
    },
    "errores": [],
@@ -61,12 +61,12 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 178,
+   "ofertas": 179,
    "paginas": 263,
    "productos_leidos": 263,
    "omitidos": {
     "no_es_suplemento_o_sin_tamano": 17,
-    "sin_stock": 40
+    "sin_stock": 39
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,12 +79,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 78,
+   "ofertas": 76,
    "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
     "sin_stock": 21,
-    "no_es_suplemento_o_sin_tamano": 57
+    "no_es_suplemento_o_sin_tamano": 58
    },
    "errores": [],
    "tipo": "sitemap",
@@ -110,12 +110,23 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 681,
-   "productos_leidos": 681,
+   "paginas": 669,
+   "productos_leidos": 669,
    "omitidos": {},
-   "errores": [],
+   "errores": [
+    "https://www.morashop.ar/productos/outlet-zma-star-nutrition-zinc-magnesio-y-vitamina-b6-x-90-capsulas-sabor-sin-sabor-1fnmv/: HTTP 404 en https://www.morashop.ar/productos/outlet-zma-star-nutrition-zinc-magnesio-y-vitami",
+    "https://www.morashop.ar/productos/outlet-vegetal-protein-isolate-375-g-nucleo-fit-arvejas-arroz-soja-chocolate-uzu2n/: HTTP 404 en https://www.morashop.ar/productos/outlet-vegetal-protein-isolate-375-g-nucleo-fit-arvejas",
+    "https://www.morashop.ar/productos/outlet-cla-acido-linoleico-60-capsulas-natural-nutrition-neutro-ez3e6/: HTTP 404 en https://www.morashop.ar/productos/outlet-cla-acido-linoleico-60-capsulas-natural-nutrition-neutro-ez3e",
+    "https://www.morashop.ar/productos/outlet-creatina-monohidratada-en-gomitas-sabor-frutos-rojos-frasco-con-60-unidades-240g-gum-185v3/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-monohidratada-en-gomitas",
+    "https://www.morashop.ar/productos/outlet-colageno-magnesio-pgn-x-60-capsulas-sin-sabor-1i8jk/: HTTP 404 en https://www.morashop.ar/productos/outlet-colageno-magnesio-pgn-x-60-capsulas-sin-sabor-1i8jk/",
+    "https://www.morashop.ar/productos/outlet-omega-3-aceite-de-pescado-vitamin-way-x-60-capsulas-sabor-neutro-sin-sabor-9hkly/: HTTP 404 en https://www.morashop.ar/productos/outlet-omega-3-aceite-de-pescado-vitamin-way-x-60-",
+    "https://www.morashop.ar/productos/outlet-daily-formula-x-100-tabs-vitaminas-y-minerales-universal-usa-442kn/: HTTP 404 en https://www.morashop.ar/productos/outlet-daily-formula-x-100-tabs-vitaminas-y-minerales-universal-",
+    "https://www.morashop.ar/productos/outlet-ena-100-whey-protein-proteina-concentrada-qe0br/: HTTP 404 en https://www.morashop.ar/productos/outlet-ena-100-whey-protein-proteina-concentrada-qe0br/",
+    "https://www.morashop.ar/productos/outlet-creatina-monohidratada-star-nutrition-300-gr-doypack-1c0lk/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-monohidratada-star-nutrition-300-gr-doypack-1c0lk/",
+    "https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-doypack-x-2-lb-frutilla-1ilws/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-do"
+   ],
    "tipo": "sitemap",
-   "errores_total": 0
+   "errores_total": 10
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -156,18 +167,18 @@
    "nota": "leyó 0 ofertas y antes tenía 81: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "Farmacity": {
    "estado": "ok",
    "ofertas": 112,
    "paginas": 24,
-   "productos_leidos": 945,
+   "productos_leidos": 947,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 584,
-    "sin_stock": 197
+    "no_es_suplemento_o_sin_tamano": 580,
+    "sin_stock": 201
    },
    "errores": [],
    "tipo": "vtex",
@@ -190,11 +201,11 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 137,
+   "ofertas": 153,
    "paginas": 410,
    "productos_leidos": 410,
    "omitidos": {
-    "sin_stock": 80,
+    "sin_stock": 72,
     "no_es_suplemento_o_sin_tamano": 30
    },
    "errores": [],
@@ -264,10 +275,10 @@
    "estado": "ok",
    "ofertas": 2,
    "paginas": 16,
-   "productos_leidos": 3975,
+   "productos_leidos": 3978,
    "omitidos": {
-    "sin_stock": 7332,
-    "no_es_suplemento_o_sin_tamano": 8553
+    "sin_stock": 7452,
+    "no_es_suplemento_o_sin_tamano": 8435
    },
    "errores": [],
    "tipo": "shopify",
