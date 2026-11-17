@@ -1,21 +1,21 @@
 {
- "fecha": "2026-11-16T19:27:21+00:00",
- "segundos": 1468,
- "productos": 522,
- "comparables": 97,
+ "fecha": "2026-11-17T18:35:51+00:00",
+ "segundos": 2207,
+ "productos": 604,
+ "comparables": 100,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 150,
+   "ofertas": 157,
    "paginas": 406,
    "productos_leidos": 406,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 81
+    "no_es_suplemento_o_sin_tamano": 82
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 150 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 157 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -24,17 +24,17 @@
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 48,
+   "ofertas": 57,
    "paginas": 1,
-   "productos_leidos": 73,
+   "productos_leidos": 74,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 171,
-    "sin_stock": 52
+    "no_es_suplemento_o_sin_tamano": 206,
+    "sin_stock": 23
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 48 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 57 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 29,
+   "ofertas": 27,
    "paginas": 112,
    "productos_leidos": 112,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21,
-    "sin_stock": 2
+    "no_es_suplemento_o_sin_tamano": 23,
+    "sin_stock": 1
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,12 +61,13 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 179,
-   "paginas": 263,
+   "ofertas": 177,
+   "paginas": 253,
    "productos_leidos": 263,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 17,
-    "sin_stock": 39
+    "no_es_suplemento_o_sin_tamano": 16,
+    "sin_cambios_304": 10,
+    "sin_stock": 38
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,12 +80,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 76,
+   "ofertas": 75,
    "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
-    "sin_stock": 21,
-    "no_es_suplemento_o_sin_tamano": 58
+    "sin_stock": 22,
+    "no_es_suplemento_o_sin_tamano": 59
    },
    "errores": [],
    "tipo": "sitemap",
@@ -96,37 +97,31 @@
    }
   },
   "DeMusculos": {
-   "estado": "ok",
+   "estado": "parcial",
    "ofertas": 0,
    "paginas": 0,
    "productos_leidos": 0,
    "omitidos": {},
    "errores": [
-    "sitemap https://www.demusculos.com/sitemap.xml: HTTP 404 en https://www.demusculos.com/sitemap.xml"
+    "bloqueo: www.demusculos.com: acceso denegado (403) repetido"
    ],
-   "tipo": "sitemap",
+   "tipo": "auto",
    "errores_total": 1
   },
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 669,
-   "productos_leidos": 669,
+   "paginas": 686,
+   "productos_leidos": 686,
    "omitidos": {},
    "errores": [
-    "https://www.morashop.ar/productos/outlet-zma-star-nutrition-zinc-magnesio-y-vitamina-b6-x-90-capsulas-sabor-sin-sabor-1fnmv/: HTTP 404 en https://www.morashop.ar/productos/outlet-zma-star-nutrition-zinc-magnesio-y-vitami",
-    "https://www.morashop.ar/productos/outlet-vegetal-protein-isolate-375-g-nucleo-fit-arvejas-arroz-soja-chocolate-uzu2n/: HTTP 404 en https://www.morashop.ar/productos/outlet-vegetal-protein-isolate-375-g-nucleo-fit-arvejas",
-    "https://www.morashop.ar/productos/outlet-cla-acido-linoleico-60-capsulas-natural-nutrition-neutro-ez3e6/: HTTP 404 en https://www.morashop.ar/productos/outlet-cla-acido-linoleico-60-capsulas-natural-nutrition-neutro-ez3e",
-    "https://www.morashop.ar/productos/outlet-creatina-monohidratada-en-gomitas-sabor-frutos-rojos-frasco-con-60-unidades-240g-gum-185v3/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-monohidratada-en-gomitas",
-    "https://www.morashop.ar/productos/outlet-colageno-magnesio-pgn-x-60-capsulas-sin-sabor-1i8jk/: HTTP 404 en https://www.morashop.ar/productos/outlet-colageno-magnesio-pgn-x-60-capsulas-sin-sabor-1i8jk/",
-    "https://www.morashop.ar/productos/outlet-omega-3-aceite-de-pescado-vitamin-way-x-60-capsulas-sabor-neutro-sin-sabor-9hkly/: HTTP 404 en https://www.morashop.ar/productos/outlet-omega-3-aceite-de-pescado-vitamin-way-x-60-",
-    "https://www.morashop.ar/productos/outlet-daily-formula-x-100-tabs-vitaminas-y-minerales-universal-usa-442kn/: HTTP 404 en https://www.morashop.ar/productos/outlet-daily-formula-x-100-tabs-vitaminas-y-minerales-universal-",
-    "https://www.morashop.ar/productos/outlet-ena-100-whey-protein-proteina-concentrada-qe0br/: HTTP 404 en https://www.morashop.ar/productos/outlet-ena-100-whey-protein-proteina-concentrada-qe0br/",
-    "https://www.morashop.ar/productos/outlet-creatina-monohidratada-star-nutrition-300-gr-doypack-1c0lk/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-monohidratada-star-nutrition-300-gr-doypack-1c0lk/",
-    "https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-doypack-x-2-lb-frutilla-1ilws/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-do"
+    "https://www.morashop.ar/productos/outlet-suplemento-natural-whey-citrato-de-magnesio-en-sachet-de-1kg-u7tc7/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-natural-whey-citrato-de-magnesio-en-sachet-de-",
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-creatine-monohydrate-100-pura-creatina-en-pote-de-300g-17ace/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nut",
+    "https://www.morashop.ar/productos/outlet-my-protein-impact-creatina-monohidratada-250gr-sin-sabor-16ova/: HTTP 404 en https://www.morashop.ar/productos/outlet-my-protein-impact-creatina-monohidratada-250gr-sin-sabor-16ov",
+    "https://www.morashop.ar/productos/outlet-whey-protein-100-5lbs-gold-nutrition-proteina-chocolate-1hxqh/: HTTP 404 en https://www.morashop.ar/productos/outlet-whey-protein-100-5lbs-gold-nutrition-proteina-chocolate-1hxqh/"
    ],
    "tipo": "sitemap",
-   "errores_total": 10
+   "errores_total": 4
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -141,14 +136,16 @@
   "Gentech": {
    "estado": "ok",
    "ofertas": 10,
-   "paginas": 117,
-   "productos_leidos": 117,
+   "paginas": 116,
+   "productos_leidos": 116,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 25
+    "no_es_suplemento_o_sin_tamano": 24
    },
-   "errores": [],
+   "errores": [
+    "https://www.gentech.com.ar/shop/gtbbch010-beauty-bar-gentech-87: HTTP 404 en https://www.gentech.com.ar/shop/gtbbch010-beauty-bar-gentech-87"
+   ],
    "tipo": "sitemap",
-   "errores_total": 0,
+   "errores_total": 1,
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -167,17 +164,17 @@
    "nota": "leyó 0 ofertas y antes tenía 81: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 112,
+   "ofertas": 111,
    "paginas": 24,
    "productos_leidos": 947,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 580,
+    "no_es_suplemento_o_sin_tamano": 579,
     "sin_stock": 201
    },
    "errores": [],
@@ -201,12 +198,12 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 153,
+   "ofertas": 152,
    "paginas": 410,
    "productos_leidos": 410,
    "omitidos": {
     "sin_stock": 72,
-    "no_es_suplemento_o_sin_tamano": 30
+    "no_es_suplemento_o_sin_tamano": 24
    },
    "errores": [],
    "tipo": "sitemap",
@@ -261,24 +258,21 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 511,
-   "productos_leidos": 511,
+   "paginas": 512,
+   "productos_leidos": 512,
    "omitidos": {},
-   "errores": [
-    "https://www.centraloeste.com.ar/dermaglos-protector-solar-x-100g-hidratacion-profunda.html: HTTP 404 en https://www.centraloeste.com.ar/dermaglos-protector-solar-x-100g-hidratacion-profunda.html",
-    "https://www.centraloeste.com.ar/hidratante-facial-eucerin-hyaluron-mist-spray-x150ml.html: HTTP 404 en https://www.centraloeste.com.ar/hidratante-facial-eucerin-hyaluron-mist-spray-x150ml.html"
-   ],
+   "errores": [],
    "tipo": "sitemap",
-   "errores_total": 2
+   "errores_total": 0
   },
   "Decathlon": {
    "estado": "ok",
    "ofertas": 2,
    "paginas": 16,
-   "productos_leidos": 3978,
+   "productos_leidos": 3976,
    "omitidos": {
-    "sin_stock": 7452,
-    "no_es_suplemento_o_sin_tamano": 8435
+    "no_es_suplemento_o_sin_tamano": 8716,
+    "sin_stock": 7166
    },
    "errores": [],
    "tipo": "shopify",
@@ -290,21 +284,23 @@
    }
   },
   "Nutrishop": {
-   "estado": "conservada",
-   "ofertas": 0,
-   "paginas": 0,
-   "productos_leidos": 0,
-   "omitidos": {},
+   "estado": "parcial",
+   "ofertas": 168,
+   "paginas": 396,
+   "productos_leidos": 396,
+   "omitidos": {
+    "sin_stock": 15,
+    "no_es_suplemento_o_sin_tamano": 13
+   },
    "errores": [
-    "sitemap https://www.nutrishop.com.ar/sitemap.xml: HTTP 403 en https://www.nutrishop.com.ar/sitemap.xml"
+    "sitemap https://nutrishop.com.ar/product_category-sitemap4.xml: HTTP 404 en https://nutrishop.com.ar/product_category-sitemap4.xml"
    ],
    "tipo": "sitemap",
    "errores_total": 1,
-   "nota": "leyó 0 ofertas y antes tenía 50: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 0,
-    "dudosos": 2
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "Mercado Libre": {
