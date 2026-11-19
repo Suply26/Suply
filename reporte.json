@@ -1,25 +1,25 @@
 {
- "fecha": "2026-11-18T18:05:19+00:00",
- "segundos": 1483,
- "productos": 598,
- "comparables": 99,
+ "fecha": "2026-11-19T18:13:15+00:00",
+ "segundos": 1443,
+ "productos": 604,
+ "comparables": 101,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 170,
+   "ofertas": 168,
    "paginas": 413,
    "productos_leidos": 413,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 75
+    "no_es_suplemento_o_sin_tamano": 77
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 170 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 168 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "ENA Sport": {
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 26,
+   "ofertas": 31,
    "paginas": 112,
    "productos_leidos": 112,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 22,
-    "sin_stock": 2
+    "no_es_suplemento_o_sin_tamano": 19,
+    "sin_stock": 1
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,12 +61,12 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 177,
+   "ofertas": 180,
    "paginas": 263,
    "productos_leidos": 263,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 17,
-    "sin_stock": 41
+    "no_es_suplemento_o_sin_tamano": 18,
+    "sin_stock": 37
    },
    "errores": [],
    "tipo": "sitemap",
@@ -79,20 +79,20 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 74,
+   "ofertas": 75,
    "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
     "sin_stock": 28,
-    "no_es_suplemento_o_sin_tamano": 54
+    "no_es_suplemento_o_sin_tamano": 52
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "DeMusculos": {
@@ -110,14 +110,23 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 693,
-   "productos_leidos": 693,
+   "paginas": 690,
+   "productos_leidos": 690,
    "omitidos": {},
    "errores": [
-    "https://www.morashop.ar/productos/outlet-100-whey-protein-gold-nutrition-sabor-gourmet-vainilla-x5lb-bt3mp/: HTTP 404 en https://www.morashop.ar/productos/outlet-100-whey-protein-gold-nutrition-sabor-gourmet-vainilla-x5l"
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-ena-sport-whey-x-pro-proteina-en-pote-de-907g-vainilla-nwsjy/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-ena-sport-whey-x-pro-pr",
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-bsn-edge-proteinas-sabor-strawberry-milkshake-x-1-82kg-f2tuz/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-bsn-edge-proteinas-sabo",
+    "https://www.morashop.ar/productos/outlet-oxido-nitrico-bsn-nitrix-2-0-90-comprimidos-creatina-y-citrulina-pump-1haad/: HTTP 404 en https://www.morashop.ar/productos/outlet-oxido-nitrico-bsn-nitrix-2-0-90-comprimidos-crea",
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-whey-protein-3kg-de-body-advance-vainilla-mqxw0/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-whey-protein-3kg-de-body-advance-vai",
+    "https://www.morashop.ar/productos/outlet-carnitina-1500-ena-60-caps-sabor-sin-sabor-9i90w/: HTTP 404 en https://www.morashop.ar/productos/outlet-carnitina-1500-ena-60-caps-sabor-sin-sabor-9i90w/",
+    "https://www.morashop.ar/productos/outlet-full-recovery-glutamina-power-587x1/: HTTP 404 en https://www.morashop.ar/productos/outlet-full-recovery-glutamina-power-587x1/",
+    "https://www.morashop.ar/productos/outlet-ena-pure-collagen-truemade-acido-hialuronico-lemonade-360g-sabor-limon-17nhy/: HTTP 404 en https://www.morashop.ar/productos/outlet-ena-pure-collagen-truemade-acido-hialuronico-le",
+    "https://www.morashop.ar/productos/outlet-enaccion-multivitaminico-ena-x-60-comprimidos-sin-sabor-cdggf/: HTTP 404 en https://www.morashop.ar/productos/outlet-enaccion-multivitaminico-ena-x-60-comprimidos-sin-sabor-cdggf/",
+    "https://www.morashop.ar/productos/outlet-mutant-mass-5-kg-ganador-de-masa-muscular-star-nutrition-strawberry-cream-32y21/: HTTP 404 en https://www.morashop.ar/productos/outlet-mutant-mass-5-kg-ganador-de-masa-muscular-st",
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-age-biologique-hydrolyzed-collagen-colageno-sabor-pomelo-en-pote-de-200g-18cks/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-age-b"
    ],
    "tipo": "sitemap",
-   "errores_total": 1
+   "errores_total": 10
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -164,11 +173,11 @@
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 111,
+   "ofertas": 112,
    "paginas": 24,
    "productos_leidos": 948,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 578,
+    "no_es_suplemento_o_sin_tamano": 584,
     "sin_stock": 200
    },
    "errores": [],
@@ -192,12 +201,12 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 147,
-   "paginas": 412,
-   "productos_leidos": 412,
+   "ofertas": 159,
+   "paginas": 414,
+   "productos_leidos": 414,
    "omitidos": {
-    "sin_stock": 73,
-    "no_es_suplemento_o_sin_tamano": 30
+    "sin_stock": 70,
+    "no_es_suplemento_o_sin_tamano": 29
    },
    "errores": [],
    "tipo": "sitemap",
@@ -214,7 +223,7 @@
    "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 20
+    "no_es_suplemento_o_sin_tamano": 21
    },
    "errores": [],
    "tipo": "sitemap",
@@ -262,11 +271,11 @@
   "Decathlon": {
    "estado": "ok",
    "ofertas": 2,
-   "paginas": 16,
-   "productos_leidos": 3977,
+   "paginas": 17,
+   "productos_leidos": 4008,
    "omitidos": {
-    "sin_stock": 7211,
-    "no_es_suplemento_o_sin_tamano": 8773
+    "no_es_suplemento_o_sin_tamano": 9961,
+    "sin_stock": 5930
    },
    "errores": [],
    "tipo": "shopify",
