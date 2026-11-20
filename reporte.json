@@ -1,25 +1,25 @@
 {
- "fecha": "2026-11-19T18:13:15+00:00",
- "segundos": 1443,
+ "fecha": "2026-11-20T17:49:45+00:00",
+ "segundos": 1473,
  "productos": 604,
  "comparables": 101,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 168,
+   "ofertas": 158,
    "paginas": 413,
    "productos_leidos": 413,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 77
+    "no_es_suplemento_o_sin_tamano": 78
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 168 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 158 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "ENA Sport": {
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 31,
+   "ofertas": 29,
    "paginas": 112,
    "productos_leidos": 112,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 19,
-    "sin_stock": 1
+    "no_es_suplemento_o_sin_tamano": 21,
+    "sin_stock": 2
    },
    "errores": [],
    "tipo": "sitemap",
@@ -91,8 +91,8 @@
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "DeMusculos": {
@@ -110,23 +110,18 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 690,
-   "productos_leidos": 690,
+   "paginas": 684,
+   "productos_leidos": 684,
    "omitidos": {},
    "errores": [
-    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-ena-sport-whey-x-pro-proteina-en-pote-de-907g-vainilla-nwsjy/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-ena-sport-whey-x-pro-pr",
-    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-bsn-edge-proteinas-sabor-strawberry-milkshake-x-1-82kg-f2tuz/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-bsn-edge-proteinas-sabo",
-    "https://www.morashop.ar/productos/outlet-oxido-nitrico-bsn-nitrix-2-0-90-comprimidos-creatina-y-citrulina-pump-1haad/: HTTP 404 en https://www.morashop.ar/productos/outlet-oxido-nitrico-bsn-nitrix-2-0-90-comprimidos-crea",
-    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-whey-protein-3kg-de-body-advance-vainilla-mqxw0/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-whey-protein-3kg-de-body-advance-vai",
-    "https://www.morashop.ar/productos/outlet-carnitina-1500-ena-60-caps-sabor-sin-sabor-9i90w/: HTTP 404 en https://www.morashop.ar/productos/outlet-carnitina-1500-ena-60-caps-sabor-sin-sabor-9i90w/",
-    "https://www.morashop.ar/productos/outlet-full-recovery-glutamina-power-587x1/: HTTP 404 en https://www.morashop.ar/productos/outlet-full-recovery-glutamina-power-587x1/",
-    "https://www.morashop.ar/productos/outlet-ena-pure-collagen-truemade-acido-hialuronico-lemonade-360g-sabor-limon-17nhy/: HTTP 404 en https://www.morashop.ar/productos/outlet-ena-pure-collagen-truemade-acido-hialuronico-le",
-    "https://www.morashop.ar/productos/outlet-enaccion-multivitaminico-ena-x-60-comprimidos-sin-sabor-cdggf/: HTTP 404 en https://www.morashop.ar/productos/outlet-enaccion-multivitaminico-ena-x-60-comprimidos-sin-sabor-cdggf/",
-    "https://www.morashop.ar/productos/outlet-mutant-mass-5-kg-ganador-de-masa-muscular-star-nutrition-strawberry-cream-32y21/: HTTP 404 en https://www.morashop.ar/productos/outlet-mutant-mass-5-kg-ganador-de-masa-muscular-st",
-    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-age-biologique-hydrolyzed-collagen-colageno-sabor-pomelo-en-pote-de-200g-18cks/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-polvo-age-b"
+    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-platinum-whey-isolate-proteinas-sabor-vainilla-cream-en-pote-de-907g-au0lt/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-",
+    "https://www.morashop.ar/productos/outlet-treonato-de-magnesio-labs-nutrition-60-comprimidos-sabor-sin-sabor-idqdb/: HTTP 404 en https://www.morashop.ar/productos/outlet-treonato-de-magnesio-labs-nutrition-60-comprimidos-",
+    "https://www.morashop.ar/productos/outlet-gentech-afa-whey-protein-7900-500g-sachet-chocolate-cqkg6/: HTTP 404 en https://www.morashop.ar/productos/outlet-gentech-afa-whey-protein-7900-500g-sachet-chocolate-cqkg6/",
+    "https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-doypack-x-2-lb-vainilla-ice-148mb/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutritio",
+    "https://www.morashop.ar/productos/outlet-creatina-pura-monohidratada-500g-natural-whey-suplemento-deportivo-polvo-caracteristico-1ktg6/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-pura-monohidratada-50"
    ],
    "tipo": "sitemap",
-   "errores_total": 10
+   "errores_total": 5
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -167,17 +162,17 @@
    "nota": "leyó 0 ofertas y antes tenía 81: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 112,
-   "paginas": 24,
-   "productos_leidos": 948,
+   "ofertas": 111,
+   "paginas": 25,
+   "productos_leidos": 950,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 584,
+    "no_es_suplemento_o_sin_tamano": 582,
     "sin_stock": 200
    },
    "errores": [],
@@ -201,12 +196,13 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 159,
-   "paginas": 414,
-   "productos_leidos": 414,
+   "ofertas": 154,
+   "paginas": 237,
+   "productos_leidos": 415,
    "omitidos": {
-    "sin_stock": 70,
-    "no_es_suplemento_o_sin_tamano": 29
+    "sin_cambios_304": 178,
+    "no_es_suplemento_o_sin_tamano": 19,
+    "sin_stock": 22
    },
    "errores": [],
    "tipo": "sitemap",
@@ -219,11 +215,12 @@
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 69,
-   "paginas": 156,
+   "ofertas": 71,
+   "paginas": 103,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21
+    "sin_cambios_304": 53,
+    "no_es_suplemento_o_sin_tamano": 10
    },
    "errores": [],
    "tipo": "sitemap",
@@ -261,8 +258,8 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 517,
-   "productos_leidos": 517,
+   "paginas": 529,
+   "productos_leidos": 529,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -270,19 +267,19 @@
   },
   "Decathlon": {
    "estado": "ok",
-   "ofertas": 2,
+   "ofertas": 1,
    "paginas": 17,
-   "productos_leidos": 4008,
+   "productos_leidos": 4023,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 9961,
-    "sin_stock": 5930
+    "no_es_suplemento_o_sin_tamano": 9966,
+    "sin_stock": 5974
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
    "enlaces_verificados": {
-    "probados": 2,
-    "correctos": 2,
+    "probados": 1,
+    "correctos": 1,
     "dudosos": 0
    }
   },
