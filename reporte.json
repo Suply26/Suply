@@ -1,25 +1,25 @@
 {
- "fecha": "2026-11-20T17:49:45+00:00",
- "segundos": 1473,
- "productos": 604,
- "comparables": 101,
+ "fecha": "2026-11-21T16:53:45+00:00",
+ "segundos": 1465,
+ "productos": 599,
+ "comparables": 100,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 158,
-   "paginas": 413,
-   "productos_leidos": 413,
+   "ofertas": 161,
+   "paginas": 414,
+   "productos_leidos": 414,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 78
+    "no_es_suplemento_o_sin_tamano": 79
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 158 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 161 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "ENA Sport": {
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 29,
+   "ofertas": 33,
    "paginas": 112,
    "productos_leidos": 112,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 21,
-    "sin_stock": 2
+    "no_es_suplemento_o_sin_tamano": 20,
+    "sin_stock": 1
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,16 +61,25 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 180,
-   "paginas": 263,
-   "productos_leidos": 263,
+   "ofertas": 174,
+   "paginas": 255,
+   "productos_leidos": 255,
    "omitidos": {
     "no_es_suplemento_o_sin_tamano": 18,
-    "sin_stock": 37
+    "sin_stock": 35
    },
-   "errores": [],
+   "errores": [
+    "https://suplementate.com.ar/producto/optimum-nutrition-creatina-monohidrato-micronizada-300g: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-creatina-monohidrato-micronizada-300g",
+    "https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-2lb: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-2lb",
+    "https://suplementate.com.ar/producto/optimum-nutrition-amino-energy-essential-270g: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-amino-energy-essential-270g",
+    "https://suplementate.com.ar/producto/optimum-nutrition-serious-mass-6lbs: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-serious-mass-6lbs",
+    "https://suplementate.com.ar/producto/optimum-nutrition-gold-standard-protein-shake-325ml: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-gold-standard-protein-shake-325ml",
+    "https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-1-5lb: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-1-5lb",
+    "https://suplementate.com.ar/producto/optimum-nutrition-zma-90-capsulas: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-zma-90-capsulas",
+    "https://suplementate.com.ar/producto/optimum-nutrition-glutamina-300g: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-glutamina-300g"
+   ],
    "tipo": "sitemap",
-   "errores_total": 0,
+   "errores_total": 8,
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -79,12 +88,13 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 75,
-   "paginas": 191,
+   "ofertas": 77,
+   "paginas": 61,
    "productos_leidos": 191,
    "omitidos": {
-    "sin_stock": 28,
-    "no_es_suplemento_o_sin_tamano": 52
+    "sin_cambios_304": 130,
+    "sin_stock": 7,
+    "no_es_suplemento_o_sin_tamano": 13
    },
    "errores": [],
    "tipo": "sitemap",
@@ -110,18 +120,12 @@
   "Morashop": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 684,
-   "productos_leidos": 684,
+   "paginas": 682,
+   "productos_leidos": 682,
    "omitidos": {},
-   "errores": [
-    "https://www.morashop.ar/productos/outlet-suplemento-en-polvo-star-nutrition-platinum-whey-isolate-proteinas-sabor-vainilla-cream-en-pote-de-907g-au0lt/: HTTP 404 en https://www.morashop.ar/productos/outlet-suplemento-en-",
-    "https://www.morashop.ar/productos/outlet-treonato-de-magnesio-labs-nutrition-60-comprimidos-sabor-sin-sabor-idqdb/: HTTP 404 en https://www.morashop.ar/productos/outlet-treonato-de-magnesio-labs-nutrition-60-comprimidos-",
-    "https://www.morashop.ar/productos/outlet-gentech-afa-whey-protein-7900-500g-sachet-chocolate-cqkg6/: HTTP 404 en https://www.morashop.ar/productos/outlet-gentech-afa-whey-protein-7900-500g-sachet-chocolate-cqkg6/",
-    "https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutrition-doypack-x-2-lb-vainilla-ice-148mb/: HTTP 404 en https://www.morashop.ar/productos/outlet-proteina-de-suero-whey-protein-star-nutritio",
-    "https://www.morashop.ar/productos/outlet-creatina-pura-monohidratada-500g-natural-whey-suplemento-deportivo-polvo-caracteristico-1ktg6/: HTTP 404 en https://www.morashop.ar/productos/outlet-creatina-pura-monohidratada-50"
-   ],
+   "errores": [],
    "tipo": "sitemap",
-   "errores_total": 5
+   "errores_total": 0
   },
   "Rosario Suplementos": {
    "estado": "ok",
@@ -151,29 +155,31 @@
    }
   },
   "ADN Nutrition": {
-   "estado": "conservada",
-   "ofertas": 0,
-   "paginas": 0,
-   "productos_leidos": 0,
-   "omitidos": {},
+   "estado": "ok",
+   "ofertas": 81,
+   "paginas": 510,
+   "productos_leidos": 510,
+   "omitidos": {
+    "sin_stock": 169,
+    "no_es_suplemento_o_sin_tamano": 24
+   },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 0 ofertas y antes tenía 81: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "Farmacity": {
    "estado": "ok",
-   "ofertas": 111,
+   "ofertas": 112,
    "paginas": 25,
    "productos_leidos": 950,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 582,
-    "sin_stock": 200
+    "no_es_suplemento_o_sin_tamano": 584,
+    "sin_stock": 198
    },
    "errores": [],
    "tipo": "vtex",
@@ -196,31 +202,30 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 154,
-   "paginas": 237,
+   "ofertas": 157,
+   "paginas": 415,
    "productos_leidos": 415,
    "omitidos": {
-    "sin_cambios_304": 178,
-    "no_es_suplemento_o_sin_tamano": 19,
-    "sin_stock": 22
+    "sin_stock": 71,
+    "no_es_suplemento_o_sin_tamano": 32
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 2,
-    "dudosos": 0
+    "correctos": 1,
+    "dudosos": 1
    }
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 71,
-   "paginas": 103,
+   "ofertas": 73,
+   "paginas": 134,
    "productos_leidos": 156,
    "omitidos": {
-    "sin_cambios_304": 53,
-    "no_es_suplemento_o_sin_tamano": 10
+    "no_es_suplemento_o_sin_tamano": 18,
+    "sin_cambios_304": 22
    },
    "errores": [],
    "tipo": "sitemap",
@@ -258,8 +263,8 @@
   "Central Oeste": {
    "estado": "ok",
    "ofertas": 0,
-   "paginas": 529,
-   "productos_leidos": 529,
+   "paginas": 530,
+   "productos_leidos": 530,
    "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
@@ -269,10 +274,10 @@
    "estado": "ok",
    "ofertas": 1,
    "paginas": 17,
-   "productos_leidos": 4023,
+   "productos_leidos": 4016,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 9966,
-    "sin_stock": 5974
+    "sin_stock": 6009,
+    "no_es_suplemento_o_sin_tamano": 9906
    },
    "errores": [],
    "tipo": "shopify",
