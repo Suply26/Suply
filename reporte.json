@@ -1,40 +1,40 @@
 {
- "fecha": "2026-11-21T16:53:45+00:00",
- "segundos": 1465,
- "productos": 599,
- "comparables": 100,
+ "fecha": "2026-11-22T17:11:37+00:00",
+ "segundos": 1492,
+ "productos": 608,
+ "comparables": 97,
  "tiendas": {
   "Disfit": {
    "estado": "conservada",
-   "ofertas": 161,
+   "ofertas": 154,
    "paginas": 414,
    "productos_leidos": 414,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 79
+    "no_es_suplemento_o_sin_tamano": 75
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
-   "nota": "leyó 161 ofertas y antes tenía 3876: se conserva la lectura anterior",
+   "nota": "leyó 154 ofertas y antes tenía 3876: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "ENA Sport": {
    "estado": "conservada",
-   "ofertas": 58,
+   "ofertas": 57,
    "paginas": 1,
    "productos_leidos": 74,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 206,
-    "sin_stock": 22
+    "no_es_suplemento_o_sin_tamano": 205,
+    "sin_stock": 24
    },
    "errores": [],
    "tipo": "shopify",
    "errores_total": 0,
-   "nota": "leyó 58 ofertas y antes tenía 182: se conserva la lectura anterior",
+   "nota": "leyó 57 ofertas y antes tenía 182: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -43,12 +43,12 @@
   },
   "Recoleta al Fallo": {
    "estado": "ok",
-   "ofertas": 33,
+   "ofertas": 28,
    "paginas": 112,
    "productos_leidos": 112,
    "omitidos": {
     "no_es_suplemento_o_sin_tamano": 20,
-    "sin_stock": 1
+    "sin_stock": 2
    },
    "errores": [],
    "tipo": "sitemap",
@@ -61,25 +61,16 @@
   },
   "Suplementate": {
    "estado": "ok",
-   "ofertas": 174,
-   "paginas": 255,
-   "productos_leidos": 255,
+   "ofertas": 180,
+   "paginas": 264,
+   "productos_leidos": 264,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18,
-    "sin_stock": 35
+    "sin_stock": 38,
+    "no_es_suplemento_o_sin_tamano": 18
    },
-   "errores": [
-    "https://suplementate.com.ar/producto/optimum-nutrition-creatina-monohidrato-micronizada-300g: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-creatina-monohidrato-micronizada-300g",
-    "https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-2lb: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-2lb",
-    "https://suplementate.com.ar/producto/optimum-nutrition-amino-energy-essential-270g: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-amino-energy-essential-270g",
-    "https://suplementate.com.ar/producto/optimum-nutrition-serious-mass-6lbs: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-serious-mass-6lbs",
-    "https://suplementate.com.ar/producto/optimum-nutrition-gold-standard-protein-shake-325ml: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-gold-standard-protein-shake-325ml",
-    "https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-1-5lb: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-whey-protein-100-1-5lb",
-    "https://suplementate.com.ar/producto/optimum-nutrition-zma-90-capsulas: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-zma-90-capsulas",
-    "https://suplementate.com.ar/producto/optimum-nutrition-glutamina-300g: HTTP 404 en https://suplementate.com.ar/producto/optimum-nutrition-glutamina-300g"
-   ],
+   "errores": [],
    "tipo": "sitemap",
-   "errores_total": 8,
+   "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -88,13 +79,12 @@
   },
   "Nutrición Muscular": {
    "estado": "ok",
-   "ofertas": 77,
-   "paginas": 61,
+   "ofertas": 76,
+   "paginas": 191,
    "productos_leidos": 191,
    "omitidos": {
-    "sin_cambios_304": 130,
-    "sin_stock": 7,
-    "no_es_suplemento_o_sin_tamano": 13
+    "sin_stock": 28,
+    "no_es_suplemento_o_sin_tamano": 51
    },
    "errores": [],
    "tipo": "sitemap",
@@ -155,17 +145,15 @@
    }
   },
   "ADN Nutrition": {
-   "estado": "ok",
-   "ofertas": 81,
-   "paginas": 510,
-   "productos_leidos": 510,
-   "omitidos": {
-    "sin_stock": 169,
-    "no_es_suplemento_o_sin_tamano": 24
-   },
+   "estado": "conservada",
+   "ofertas": 0,
+   "paginas": 0,
+   "productos_leidos": 0,
+   "omitidos": {},
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
+   "nota": "leyó 0 ofertas y antes tenía 81: se conserva la lectura anterior",
    "enlaces_verificados": {
     "probados": 2,
     "correctos": 2,
@@ -178,8 +166,8 @@
    "paginas": 25,
    "productos_leidos": 950,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 584,
-    "sin_stock": 198
+    "no_es_suplemento_o_sin_tamano": 589,
+    "sin_stock": 195
    },
    "errores": [],
    "tipo": "vtex",
@@ -202,30 +190,29 @@
   },
   "Entreno": {
    "estado": "ok",
-   "ofertas": 157,
+   "ofertas": 152,
    "paginas": 415,
    "productos_leidos": 415,
    "omitidos": {
-    "sin_stock": 71,
-    "no_es_suplemento_o_sin_tamano": 32
+    "sin_stock": 72,
+    "no_es_suplemento_o_sin_tamano": 30
    },
    "errores": [],
    "tipo": "sitemap",
    "errores_total": 0,
    "enlaces_verificados": {
     "probados": 2,
-    "correctos": 1,
-    "dudosos": 1
+    "correctos": 2,
+    "dudosos": 0
    }
   },
   "TR Fitness": {
    "estado": "ok",
-   "ofertas": 73,
-   "paginas": 134,
+   "ofertas": 68,
+   "paginas": 156,
    "productos_leidos": 156,
    "omitidos": {
-    "no_es_suplemento_o_sin_tamano": 18,
-    "sin_cambios_304": 22
+    "no_es_suplemento_o_sin_tamano": 22
    },
    "errores": [],
    "tipo": "sitemap",
@@ -274,10 +261,10 @@
    "estado": "ok",
    "ofertas": 1,
    "paginas": 17,
-   "productos_leidos": 4016,
+   "productos_leidos": 4017,
    "omitidos": {
-    "sin_stock": 6009,
-    "no_es_suplemento_o_sin_tamano": 9906
+    "sin_stock": 5930,
+    "no_es_suplemento_o_sin_tamano": 9984
    },
    "errores": [],
    "tipo": "shopify",
